@@ -28,6 +28,7 @@ def fizzbuzz(n):
         else:
             tmp_result.append(str(i))
     print(" ".join(tmp_result))
+    print(FizzBuzz)
 
 
 if __name__ == '__main__':
